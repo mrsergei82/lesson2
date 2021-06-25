@@ -23,7 +23,6 @@ public class HomeWork2 {
     public static void stroka(String a, int b){
         for (int i=0; i<b; i++){
             System.out.println(a);
-
         }
     }
     public static boolean years(int y) {
